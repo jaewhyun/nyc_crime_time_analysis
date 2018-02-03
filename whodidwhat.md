@@ -1,6 +1,9 @@
 # Who did what
 
 ## Jae
+- Data exploration 
+- Population over 65+ and crime frequency correlations and plots
+- TimeSeries Visualization
 
 ## Jason
 
