@@ -2,12 +2,8 @@
 
 ## Jae
 - Data exploration 
-- Population over 65+ and crime frequency correlations and plots
-- TimeSeries Visualization
-
+- TimeSeries analystis and visualization (R)
 - Correlations (poverty rate, unemployment rate, population, population aged 65+, foreign born population) and plots
-- Time series analysis
-- Visualization in R
 
 ## Jason
 
